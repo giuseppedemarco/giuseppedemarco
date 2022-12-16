@@ -1,16 +1,10 @@
-- 👋 Hi, I’m @giuseppedemarco
-- 👀 I’m interested in Computer Science, 3d Sculpting and Graphic
-- 🌱 I’m currently learning Flutter and Java
-- 💞️ I’m looking to collaborate on cool projects
-- 📫 How to reach me @giuseppedemarcoo on IG
-
 <!---
 giuseppedemarco/giuseppedemarco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
 <div align="center">
-   <h1>Hi there, I'm <a href="https://hemant.codes">Hemant</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+   <h1>Hi there, I'm <a href="https://hemant.codes">Giuseppe</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
    
    
    <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
@@ -98,18 +92,6 @@ You can click the Preview link to take a look at your changes.
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 </p>
 
-<!--
-### - Blogs 🌱
--->
-<!--
-<p align="center">
-  <a href="https://dev.to/hemant">
-    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/blogs/devto.svg"> 
-  </a>
-</p>
--->
-
-
 
  ### - What i do
 
@@ -129,7 +111,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
 </p>
-<p align="center">Made with ❤️ in India</p>
+<p align="center">Made with ❤️ in Italy</p>
 
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
