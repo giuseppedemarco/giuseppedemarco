@@ -20,16 +20,8 @@ You can click the Preview link to take a look at your changes.
 
 
 <div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  Giuseppe De Marco | 💻 Full Stack Developer | 🛸 Calabria , IT <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  Giuseppe De Marco | 💻 Studying Computer Science | 🛸 Calabria , IT <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
-
-
-
-<p align="center">
-   <a href="https://www.instagram.com/giuseppedemarcoo/"><img alt="Twitter Follow" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png"></a>
-   <br> <!-- <a href="https://badges.pufler.dev/visits/mayhemantt/mayhemantt"> <img alt="hemant joshi github" src="https://badges.pufler.dev/visits/mayhemantt/mayhemantt"> </a> -->
-   <a href="https://visitor-badge.glitch.me/badge?page_id=mayhemantt.mayhemantt"> <img alt="hemant joshi github" src="https://visitor-badge.glitch.me/badge?page_id=mayhemantt.mayhemantt"> </a>
- </p>
  
  <h5 align="center">
    <i>⚡️I don’t trust people who don’t write SQL queries in uppercase⚡️</i>
@@ -39,35 +31,28 @@ You can click the Preview link to take a look at your changes.
 <br />
 <img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
 <p align="center">
-  <h3> I'm 21 years old Self-taught Full-Stack developer from India.</h3>
+  <h3> I'm 18 years old Computer Science Student From Italy.</h3>
 </p>
 
- - 🥀 Learning Swift & Objective_C
+ - 🥀 Learning Flutter & Java
  
  - <i>with Javascript, Typescript, React and 69 others.</i>
    
- - 🔭 SpaceX FanBoi, die for space😼
+ - 🔭 Marvel FanBoi, die for MCU😼
 
  - 🛸 Into High Energy Physics and Astrophysics, i love shooting stars too.
  
- - I do fullstack and a bit of everything :heart:
+ - I do Artwork, 3d Model and a bit of everything :heart:
  
  - All About living life at its best.
  
- - 💬 Connect? lets get social 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/_hemant_joshi)
+ - 💬 Connect? lets get social 👉🏼
  
  <p align="center">
-  <h4> Full Stack | Typescript | Competitive Programming </h4>
+  <h4> Graphic | Developer| Competitive Programming </h4>
    </p>
 
 <!--  -->
-
-<p align="center" >
-<a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=mayhemantt&&show_icons=true&theme=radical"/>
-  </a>
-
-</p>
 
 <br />
 
