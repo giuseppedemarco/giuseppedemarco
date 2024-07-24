@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  Giuseppe De Marco | 💻 Studying Computer Science | 🛸 Calabria , IT <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  Giuseppe De Marco | 💻 Studying Computer Science | 🖌 Graphic Designer and 3D Artist | 🛸 Calabria , IT <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
  
  <h5 align="center">
