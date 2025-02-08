@@ -40,16 +40,16 @@ You can click the Preview link to take a look at your changes.
    
  - 🔭 Marvel FanBoi, die for MCU😼
 
- - 🛸 Into High Energy Physics and Astrophysics, i love shooting stars too.
+ - 🏋️‍♂️ Into Fitness and Strength Training, I love pushing my limits too
  
- - I do Artwork, 3d Model and a bit of everything :heart:
+ - 🧊 Into Artwork, 3D Modeling, and a bit of everything—I shape ideas into reality ❤️
  
  - All About living life at its best.
  
  - 💬 Connect? lets get social 👉🏼
  
  <p align="center">
-  <h4> Graphic | Developer| Competitive Programming </h4>
+  <h4> 💻 Developer | 🎨 Graphic Designer |⚡ Competitive Programmer </h4>
    </p>
 
 <!--  -->
@@ -69,14 +69,9 @@ You can click the Preview link to take a look at your changes.
   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/css3.svg" alt="CSS" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/python.svg" alt="Python" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/php.svg" alt="PHP" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/c.svg" alt="C" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/javascript.svg" alt="JavaScript" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/intellij.svg" alt="IntelliJ IDEA" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/pycharm.svg" alt="PyCharm" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/visualstudio_code.svg" alt="Visual Studio Code" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/visualstudio.svg" alt="Visual Studio" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/instagram.svg" alt="Instagram" style="vertical-align:top; margin:4px">
-</p>
 
 
 <h2 align="center">🤝 Support</h2>
