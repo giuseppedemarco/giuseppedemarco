@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  Giuseppe De Marco | 💻 Studying Computer Science | 🖌 Graphic Designer and 3D Artist | 🛸 Calabria , IT <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  Giuseppe De Marco | Working as a Full-Stack Developer | 💻 Studying software engineering | 🖌 Graphic Designer and 3D Artist | 🛸 Calabria , IT <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
  
  <h5 align="center">
@@ -31,10 +31,10 @@ You can click the Preview link to take a look at your changes.
 <br />
 <img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
 <p align="center">
-  <h3> I'm 20 years old Computer Science Student From Italy.</h3>
+  <h3> I'm 21 years old Software Engineering student from Italy.</h3>
 </p>
 
- - 🥀 Learning Flutter & Java
+ - 🥀 Learning React
  
  - <i>with Javascript, Typescript, React and 69 others.</i>
    
@@ -49,7 +49,7 @@ You can click the Preview link to take a look at your changes.
  - 💬 Connect? lets get social 👉🏼
  
  <p align="center">
-  <h4> 💻 Developer | 🎨 Graphic Designer |⚡ Competitive Programmer </h4>
+  <h4> 💻 Full-stack Developer | 🎨 Graphic Designer |⚡ Competitive Programmer </h4>
    </p>
 
 <!--  -->
