@@ -1,87 +1,89 @@
-<!---
-giuseppedemarco/giuseppedemarco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 👋 Hi, I'm Giuseppe De Marco  
+**Computer Engineering Student@Unical & SDE@Itacatech**
 
-<div align="center">
-   <h1>Hi there, I'm <a href="https://www.instagram.com/giuseppedemarcoo/">Giuseppe</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
-</div>
-
-<p align='center'>
-<img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true">&nbsp;&nbsp;
-<img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/devto.png?raw=true">&nbsp;&nbsp;
-<img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/spotify.png?raw=true">&nbsp;&nbsp;
-<img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/coffee.jpg?raw=true">&nbsp;&nbsp;
- </p>
-
-
-
-<div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  Giuseppe De Marco | Working as a Full-Stack Developer | 💻 Studying software engineering | 🖌 Graphic Designer and 3D Artist | 🛸 Calabria , IT <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
-</div>
- 
- <h5 align="center">
-   <i>⚡️I don’t trust people who don’t write SQL queries in uppercase⚡️</i>
-  </h5>
- 
- 
-<br />
-<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
-<p align="center">
-  <h3> I'm 21 years old Software Engineering student from Italy.</h3>
+<p align="left">
+  <a href="https://github.com/giuseppedemarco">
+    <img src="https://raw.githubusercontent.com/pirroh/pirroh/master/assets/github.svg" width="32" />
+  </a>
+  <a href="https://linkedin.com/in/giuseppedemarcoo">
+    <img src="https://raw.githubusercontent.com/pirroh/pirroh/master/assets/linkedin.svg" width="32" />
+  </a>
+  <a href="https://x.com/giuseppedmarco">
+    <img src="https://raw.githubusercontent.com/pirroh/pirroh/master/assets/twitter.svg" width="32" />
+  </a>
+  <a href="https://instagram.com/giuseppedemarcoo">
+    <img src="https://raw.githubusercontent.com/pirroh/pirroh/master/assets/instagram.svg" width="32" />
+  </a>
 </p>
 
- - 🥀 Learning React
- 
- - <i>with Javascript, Typescript, React and 69 others.</i>
-   
- - 🔭 Marvel FanBoi, die for MCU😼
+---
 
- - 🏋️‍♂️ Into Fitness and Strength Training, I love pushing my limits too
- 
- - 🧊 Into Artwork, 3D Modeling, and a bit of everything—I shape ideas into reality ❤️
- 
- - All About living life at its best.
- 
- - 💬 Connect? lets get social 👉🏼
- 
- <p align="center">
-  <h4> 💻 Full-stack Developer | 🎨 Graphic Designer |⚡ Competitive Programmer </h4>
-   </p>
+## 🚀 About me
+I'm a Computer Engineering student at the University of Calabria, completing my BSc and already enrolled in the MSc in Artificial Intelligence.  
+I currently work as a Full-Stack Developer at **Itaca Srl**, contributing to web platform development for public administrations, focusing on both software architecture and UX design.
 
-<!--  -->
+I'm deeply interested in **Human–AI interaction, Agentic AI systems, and UX for intelligent interfaces** — always looking for opportunities to merge engineering, usability, and emerging AI technologies.
 
-<br />
+---
 
-### - Languages and Tools...
+## 💼 Experience
+**Full-Stack Developer — Itaca Srl** *(2025–Present, Rende, Italy)*  
+- Development and maintenance of front-end and back-end components for public administration platforms  
+- UX evaluation and redesign for Italian Ministry–supported digital services  
+- Designed a methodological framework for eCommerce platforms: workflow, UX guidelines, and process standardization  
 
-<p align="center">
-  <!-- Per altre icone visita: https://github.com/MikeCodesDotNET/ColoredBadges -->
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/flutter.svg" alt="Flutter" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/bootstrap.svg" alt="Bootstrap" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/nodejs.svg" alt="Node.js" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/react.svg" alt="React" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/angular.svg" alt="Angular" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/html.svg" alt="HTML" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/css3.svg" alt="CSS" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/python.svg" alt="Python" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/php.svg" alt="PHP" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/visualstudio_code.svg" alt="Visual Studio Code" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/visualstudio.svg" alt="Visual Studio" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/instagram.svg" alt="Instagram" style="vertical-align:top; margin:4px">
+---
 
+## 🎓 Education
+**MSc in Artificial Intelligence — University of Calabria** *(enrolled, 2025–)*  
 
-<h2 align="center">🤝 Support</h2>
+**BSc in Computer Engineering — University of Calabria** *(2022–2025, completing)*  
+Main topics: OOP, Data Structures, Databases, Web Platforms, OS, AI, ML, Data Analytics, Networks  
+Competitions: CyberChallenge, Unical Games 2024–2025  
 
-<p align="center">🎀 Contributions (<a href="https://guides.github.com/introduction/flow" title="GitHub flow">GitHub Flow</a>), 🔥 issues, and 🥮 feature requests are most welcome!</p>
+**Silicon Valley Fellowship 2025** *(Oct–Nov 2025)*  
+Selected for an international merit-based fellowship with visits to leading tech companies in the San Francisco Bay Area and Stanford University.
 
-<p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
-</p>
-<p align="center">Made with ❤️ in Italy</p>
+---
 
-<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
+## 🧠 Areas of Interest
+- Human–AI Interaction & Cognitive UX  
+- Agentic and LLM-based systems  
+- Full-stack Web Engineering  
+- AI-powered tools and interfaces  
+- Design-driven software development  
 
-<p align="center">
-        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
-</p>
+---
+
+## 🛠️ Tech Stack
+
+**Languages**  
+Java · Python · C/C++ · JavaScript · TypeScript · Swift · Dart · VHDL  
+
+**Frameworks & Libraries**  
+Angular · React · Next.js · Flutter · Spring Boot · Node.js · TensorFlow · PyTorch · FastAPI · Flask · pandas · NumPy  
+
+**Tools & Software**  
+Git · GitHub · Linux/Windows/macOS · Figma · Adobe XD · Photoshop · Blender · VS Code · IntelliJ  
+
+---
+
+## 🏆 Highlights
+- Selected Fellow — **Silicon Valley Fellowship 2025**  
+- Participated in **CyberChallenge** and **Unical Games 2024–2025**  
+- High School Diploma 100/100, Italy  
+- Strong background in leadership, problem-solving, and teamwork  
+
+---
+
+## 📌 Currently
+- Working as Full-Stack Developer at Itaca Srl  
+- Completing BSc in Computer Engineering  
+- Preparing MSc in Artificial Intelligence  
+- Researching UX-aligned AI interfaces and LLM agents  
+
+---
+
+## 📫 Contact
+Feel free to reach out — collaborations and research-oriented conversations welcome.  
 
