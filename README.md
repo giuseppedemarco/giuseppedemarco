@@ -1,21 +1,5 @@
 # 👋 Hi, I'm Giuseppe De Marco  
 **Computer Engineering Student@Unical & SDE@Itacatech**
-
-<p align="left">
-  <a href="https://github.com/giuseppedemarco">
-    <img src="https://raw.githubusercontent.com/pirroh/pirroh/master/assets/github.svg" width="32" />
-  </a>
-  <a href="https://linkedin.com/in/giuseppedemarcoo">
-    <img src="https://raw.githubusercontent.com/pirroh/pirroh/master/assets/linkedin.svg" width="32" />
-  </a>
-  <a href="https://x.com/giuseppedmarco">
-    <img src="https://raw.githubusercontent.com/pirroh/pirroh/master/assets/twitter.svg" width="32" />
-  </a>
-  <a href="https://instagram.com/giuseppedemarcoo">
-    <img src="https://raw.githubusercontent.com/pirroh/pirroh/master/assets/instagram.svg" width="32" />
-  </a>
-</p>
-
 ---
 
 ## 🚀 About me
