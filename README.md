@@ -3,8 +3,7 @@
 ---
 
 ## 🚀 About me
-I'm a Computer Engineering student at the University of Calabria, completing my BSc and already enrolled in the MSc in Artificial Intelligence.  
-I currently work as a Full-Stack Developer at **Itaca Srl**, contributing to web platform development for public administrations, focusing on both software architecture and UX design.
+I'm a Computer Engineering student at the University of Calabria, completing my BSc and already enrolled in the MSc in Artificial Intelligence. I currently work as a Full-Stack Developer at **Itaca Srl**, contributing to web platform development for public administrations, focusing on both software architecture and UX design.
 
 I'm deeply interested in **Human–AI interaction, Agentic AI systems, and UX for intelligent interfaces** — always looking for opportunities to merge engineering, usability, and emerging AI technologies.
 
