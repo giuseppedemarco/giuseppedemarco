@@ -64,7 +64,7 @@ Git · GitHub · Linux/Windows/macOS · Figma · Adobe XD · Photoshop · Blende
 - Completing BSc in Computer Engineering  
 - Preparing MSc in Artificial Intelligence  
 - Researching UX-aligned AI interfaces and LLM agents  
-
+- Completing the **Google UX Design Professional Certificate**  
 ---
 
 ## 📫 Contact
