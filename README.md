@@ -1,6 +1,4 @@
 # 👋 Hi, I'm Giuseppe De Marco  
-**SDE@Itacatech**
----
 
 ## 🚀 About me
 I'm a Computer Engineering student at the University of Calabria, completing my BSc and already enrolled in the MSc in Artificial Intelligence. I currently work as a Full-Stack Developer at **Itaca Srl**, contributing to web platform development for public administrations, focusing on both software architecture and UX design.
