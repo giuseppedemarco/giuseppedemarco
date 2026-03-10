@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Giuseppe De Marco  
-**Computer Engineering Student@Unical & SDE@Itacatech**
+**SDE@Itacatech**
 ---
 
 ## 🚀 About me
